@@ -1,0 +1,113 @@
+body{
+    background-color: greenyellow;
+}
+
+
+#mandm{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
+#login{
+    background-color: wheat;
+    width:70% ;  
+    border-radius: 20px;  
+}
+#writing{
+    background-color: wheat;
+    width: 80%;
+    border-radius: 20px;
+}
+#aboutcholera{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#cholera{
+    height: 200px;
+}
+#aboutCC{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#CC{
+    height: 200px;
+}
+#aboutdengue{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#aboutdiarrhoea{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#aboutflu{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#flu{
+    height: 200px;
+}
+#aboutjaundice{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#jaundice{
+    height: 200px;
+}
+#aboutmalaria{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#malaria{
+    height: 300px;
+    width: 350px;
+}
+#aboutmeasles{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px; 
+}
+#aboutplague{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#aboutRW{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#abouttetanus{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#abouttyphoid{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+#typhoid{
+    height: 200px;
+}
+#aboutYF{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
+.non{
+    height: 200px;
+    width:300px
+}
+.non1{
+    background-color: wheat;
+    width: 70%;
+    border-radius: 1px;
+}
